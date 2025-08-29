@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1756414204 source:d:\course\coco\main.cpp
+	<iostream>
+	<Staff.h>
+	<Teacher.h>
+	<Student.h>
+	<Person.h>
+	<School.h>
+
+1756332580 source:d:\course\coco\src\person.cpp
+	"Person.h"
+
+1756307548 d:\course\coco\include\person.h
+	<iostream>
+	<Person.h>
+
+1756332530 source:d:\course\coco\src\teacher.cpp
+	"Teacher.h"
+
+1756311781 d:\course\coco\include\teacher.h
+	<iostream>
+	<Person.h>
+
+1756332595 source:d:\course\coco\src\staff.cpp
+	"Staff.h"
+
+1756222374 d:\course\coco\include\staff.h
+	<iostream>
+	<Person.h>
+
+1756332558 source:d:\course\coco\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1756307548 d:\course\coco\include\student.h
+	<iostream>
+	<person.h>
+
+1756400261 source:d:\course\coco\src\classroom.cpp
+	"Classroom.h"
+
+1756400301 d:\course\coco\include\classroom.h
+	<iostream>
+
+1756401508 source:d:\course\coco\src\exam.cpp
+	"Exam.h"
+
+1756401537 d:\course\coco\include\exam.h
+	<iostream>
+
+1756420402 source:d:\course\coco\src\school.cpp
+	"School.h"
+
+1756470322 d:\course\coco\include\school.h
+	<iostream>
+	<Student.h>
+	<Teacher.h>
+	<Staff.h>
+	<Course.h>
+	<Classroom.h>
+
+1756397504 source:d:\course\coco\src\course.cpp
+	"Course.h"
+
+1756397496 d:\course\coco\include\course.h
+	<iostream>
+
